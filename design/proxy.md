@@ -35,5 +35,4 @@ type MQ interface {
 	Close()
 }
 ```
-* 实现Register和Init方法，见[kafka.go](https://git.100tal.com/wangxiao_go_center/pan/blob/master/mq/kafka/kafka.go#L37)
-* 添加Register到main，见[main.go](https://git.100tal.com/wangxiao_go_center/pan/blob/master/main.go#L35)
+* 实现Register和Init方法

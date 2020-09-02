@@ -24,6 +24,3 @@ type Server struct {
 	exit          chan struct{}   //退出信号
 }
 ```
-
-#### 注意事项
-* 通过读取meta中的信息确定消息的类型，见server.go中[第164行](https://git.100tal.com/wangxiao_go_center/pan/blob/master/internal/server.go#L164)
