@@ -6,7 +6,6 @@ Pan 是使用纯Go语言编写的高性能高稳定的消息中间件生产端�
  * [**简介**](README.md)
     * [背景](introduce/background.md)
     * [特性](introduce/special.md)
-    * [版本](introduce/version.md)
 
  * [**快速开始**](quickstart/quickstart.md)
     * [kafka](quickstart/kafka.md)
@@ -33,8 +32,4 @@ Pan 是使用纯Go语言编写的高性能高稳定的消息中间件生产端�
     * [性能测试](test/performance.md)
     
 * [**稳定性建设**](test/stable.md)
-
-* [**yum安装**](yum.md)
-
-* [**评论&Issues**](issue.md)
 
