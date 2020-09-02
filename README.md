@@ -24,9 +24,7 @@ Pan 是使用纯Go语言编写的高性能高稳定的消息中间件生产端�
     * [基础配置](config/base.md)
     * [队列配置](config/mq.md)
 
-* [**部署**](deploy/deploy.md)
-    * [本地环境](deploy/local.md)
-    * [生产环境](deploy/prod.md)
+* [**部署**](deploy/local.md)
 
 * [**测试**](test/test.md)
     * [性能测试](test/performance.md)
