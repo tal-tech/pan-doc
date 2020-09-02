@@ -6,7 +6,7 @@
 * 管理消息队列实体的对象初始化
 
 #### 源码实现
-源码实现请见[mq.go](https://git.100tal.com/wangxiao_go_center/pan/blob/master/mq/mq.go)
+源码实现请见[mq.go](https://github.com/tal-tech/pan/blob/master/mq/mq.go)
 
 #### 结构
 ```go

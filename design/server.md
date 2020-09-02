@@ -6,7 +6,7 @@
 * 将消息传给给下游pchan
 
 #### 源码实现
-源码实现请见[server.go](https://git.100tal.com/wangxiao_go_center/pan/blob/master/internal/server.go)
+源码实现请见[server.go](https://github.com/tal-tech/pan/blob/master/internal/server.go)
 
 #### server结构
 ```go

@@ -6,7 +6,7 @@
 * 维持一个mmap，消息传递发生阻塞时，负责将消息落盘，避免消息丢失
 
 #### 源码实现
-源码实现请见[pchan.go](https://git.100tal.com/wangxiao_go_center/pan/blob/master/internal/pchan.go)
+源码实现请见[pchan.go](https://github.com/tal-tech/pan/blob/master/internal/pchan.go)
 
 #### 结构
 ```go
