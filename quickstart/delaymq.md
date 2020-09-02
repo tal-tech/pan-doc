@@ -24,7 +24,7 @@ window=5 //延时容错s
 key=delay_queue //redis中key名称
 limit=50 //一次性获取数据限制，建议设置为1000以下
 ```
-配置文档请点击[这里](config/config.md)
+配置文档请点击[这里](../config/config.md)
 
 #### 2、编译
 ```shell

@@ -22,7 +22,7 @@ valid=TopicTest
 failMode=retry/save/discard(无限次重试、保存到redis、丢弃)
 
 ```
-配置文档请点击[这里](config/config.md)
+配置文档请点击[这里](../config/config.md)
 
 #### 4、编译
 ```shell

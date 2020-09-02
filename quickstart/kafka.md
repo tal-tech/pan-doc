@@ -31,7 +31,7 @@ valid= //topic白名单，若为空则所有topic均可发送
 failMode=retry/save/discard(无限次重试、保存到redis、丢弃)
 
 ```
-配置文档请点击[这里](config/config.md)
+配置文档请点击[这里](../config/config.md)
 
 #### 5、编译
 ```shell
