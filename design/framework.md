@@ -12,7 +12,7 @@
 
 pan的内部有三个概念，server、pchan、proxy，三者的关系如下图所示：
 
-![pic](framework.jpg)
+![pic](framework_1.jpg)
 
 * server通过tcp或者unixSocket方式接收业务方数据，然后将数据传给pchan
 * pchan内部有两个缓冲队列，分别是input和output，input用来接收server接收的数据，output用来将数据传递给下游proxy，同时内部维持一个mmap，若output队列已满，说明下游发消息阻塞，那么pchan会先将数据落盘
